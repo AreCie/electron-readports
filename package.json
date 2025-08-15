@@ -1,0 +1,12 @@
+{
+  "name": "electron-readports",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^latest",
+    "serialport": "^latest"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
